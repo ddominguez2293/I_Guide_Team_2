@@ -226,3 +226,6 @@ models/
 *.pkl
 *.pt
 *.h5
+
+# macOS Finder metadata
+.DS_Store

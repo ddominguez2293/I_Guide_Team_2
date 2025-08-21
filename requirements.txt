@@ -1,0 +1,37 @@
+# --- Core Python + Notebook UX ---
+ipython>=8.12
+jupyter>=1.0
+
+# --- Numerics & DataFrames ---
+numpy>=1.23
+pandas>=2.0
+
+# --- ML: Baseline classifiers (RF/XGB) & utilities ---
+scikit-learn>=1.3
+xgboost>=2.0
+tqdm>=4.66
+
+# --- Deep tabular (TabNet requires PyTorch) ---
+torch>=2.2
+pytorch-tabnet>=4.1
+
+# --- Plotting / figures / GIFs ---
+matplotlib>=3.7
+pillow>=10.0
+imageio>=2.31
+imageio-ffmpeg>=0.4
+
+# --- Geospatial / raster & vector IO (for MODIS/ERA5/WorldCover/NASADEM prep) ---
+rasterio>=1.3
+rioxarray>=0.15
+xarray>=2023.5.0
+netCDF4>=1.6
+h5netcdf>=1.2
+geopandas>=0.14
+shapely>=2.0
+pyproj>=3.6
+fiona>=1.9
+
+# --- Optional: if your ConvLSTM/SE model is in TensorFlow/Keras instead of PyTorch ---
+# tensorflow>=2.12
+# keras>=2.12
