@@ -207,9 +207,7 @@ marimo/_lsp/
 __marimo__/
 
 # Project data & big artifacts (keep code-only repo)
-data/
 outputs/
-figures/
 models/
 
 # Large/binary formats (common in your project)
@@ -218,8 +216,6 @@ models/
 *.tif
 *.tiff
 *.gif
-*.jpg
-*.png
 *.mp4
 *.zip
 *.lzma
