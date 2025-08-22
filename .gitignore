@@ -225,3 +225,6 @@ models/
 
 # macOS Finder metadata
 .DS_Store
+
+# EXCEPT this one model
+!models/xgboost_model_with_burn_embeddings.pkl
