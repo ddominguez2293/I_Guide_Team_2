@@ -226,4 +226,4 @@ outputs/
 .DS_Store
 
 # EXCEPT this one model
-!models/xgboost_model_with_burn_embeddings.pkl
+!xgboost_model_with_burn_embeddings.pkl
