@@ -208,7 +208,6 @@ __marimo__/
 
 # Project data & big artifacts (keep code-only repo)
 outputs/
-models/
 
 # Large/binary formats (common in your project)
 *.parquet
