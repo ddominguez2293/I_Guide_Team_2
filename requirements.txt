@@ -35,3 +35,6 @@ fiona>=1.9
 # --- Optional: if your ConvLSTM/SE model is in TensorFlow/Keras instead of PyTorch ---
 # tensorflow>=2.12
 # keras>=2.12
+
+pyarrow>=10
+fastparquet>=2024.2.0
