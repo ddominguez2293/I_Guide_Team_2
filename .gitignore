@@ -210,7 +210,6 @@ __marimo__/
 outputs/
 
 # Large/binary formats (common in your project)
-*.parquet
 *.nc
 *.tif
 *.tiff
