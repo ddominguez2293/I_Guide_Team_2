@@ -220,6 +220,7 @@ outputs/
 *.pkl
 *.pt
 *.h5
+*.parquet
 
 # macOS Finder metadata
 .DS_Store
