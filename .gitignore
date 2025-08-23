@@ -221,6 +221,7 @@ outputs/
 *.pt
 *.h5
 *.parquet
+*.csv
 
 # macOS Finder metadata
 .DS_Store
